@@ -1,0 +1,105 @@
+header{
+    display: flex;
+    justify-content: space-around;
+border-bottom: 1px solid;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    gap: 20px;
+    font-family: sans-serif;
+}
+.contact i{
+    color: #6b99e3;
+}
+li{
+    font-size: 12px;
+}
+.mediplus i{
+    color: black;
+}
+.mediplus{
+    display: flex;
+    text-align: center;
+}
+img{
+    margin-left: 300px;
+}
+button{
+    margin-left: 80px;
+    border:1px solid;
+    border-radius: 8px;
+      background-color: #6b99e3;
+    height: 40px;
+    color: #fff;
+}
+.body{
+    background-image: url(task3.jpg);
+    height: 600px;
+ 
+}
+.page{
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 300px;
+    font-family: sans-serif;
+}
+h1{
+font-size: 48px;
+}
+.button{
+ display: flex;
+
+}
+.but2 button{
+    width: 200px;
+    margin-left: 2px;
+}
+.but3 button{
+    margin-left: 0;
+    margin-left: 20px;
+    width: 90px;
+    margin-right: 20px;
+    background-color: black;
+}
+.carts{
+    display: flex;
+    gap: 20px;
+    position: absolute;
+    top: 90%;
+    left: 10%;
+}
+.card{
+    height:240px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    width: 300px;
+    margin-left: 100px;
+    align-items: center;
+
+    background-color: #6b99e3;
+}
+h2{
+    color: #fff;
+    font-family: sans-serif;
+    margin-left: 20px;
+    font-family: sans-serif;
+}
+h4{
+    color: #fff;
+    margin-left: 20px;
+    font-family: sans-serif;
+}
+
+.pp{
+    
+    position: absolute;
+    top: 88%;
+    font-size: 12px;
+    color: #fff;
+}
+p{
+    font-family:sans-serif;
+    margin-left: 20px;
+}
+
